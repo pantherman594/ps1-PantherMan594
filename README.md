@@ -117,6 +117,9 @@ I have provided the `import` of `algs4` that is necessary to access the `StdIn.r
 
    ```java
   Come Mr. DJ won't you turn the music up?
+  Come Mr. DJ won't you turn the music up?
+  Come Mr. DJ won't you turn the music up?
+  Come Mr. DJ won't you turn the music up?
    ```
 
    For this problem you'll need to figure out how to do two things: (1) to convert a string representation of an integer such as `"343"` to an actual `int` `343`, and (2) to call the `System.out.println` function repeatedly. For the former, take a stroll through Java's built-in `Integer` class to see if there are any pre-defined library functions that might convert a string such as `"343"` to an integer `343`. For the latter, google Java for-loops, which are a bit different from `for` statements in Python. 
