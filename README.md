@@ -16,7 +16,7 @@
 
 After this problem set, I'll assume you have figured out the best way to do this for your system.
 
-### Compiling and running Java programs (as demonstrated in class)
+### Compiling and running Java programs
 
 1. Open your repository in Atom and go to ``Packages -> platformio-ide-terminal -> New Terminal``.
 
