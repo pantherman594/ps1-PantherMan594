@@ -24,7 +24,9 @@ After this problem set, I'll assume you have figured out the best way to do this
 
 1. Open your repository in Atom and go to ``Packages -> platformio-ide-terminal -> New Terminal``.
 
-2. Type the following to compile the code in `PartOne.java` (but don't type the `$`):
+2. Click on the `src` folder in the tree structure on the left. 
+
+3. Type the following to compile the code in `PartOne.java` (but don't type the `$`):
 
 ```bash
 $ javac PartOne.java
@@ -128,7 +130,7 @@ I have provided the `import` of `algs4` that is necessary to access the `StdIn.r
 
    For this problem you'll need to figure out how to do two things: (1) to convert a string representation of an integer such as `"343"` to an actual `int` `343`, and (2) to call the `System.out.println` function repeatedly. For the former, take a stroll through Java's built-in `Integer` class to see if there are any pre-defined library functions that might convert a string such as `"343"` to an integer `343`. For the latter, google Java for-loops, which are a bit different from `for` statements in Python. 
 
-Once your code works to your satisfaction, save the files, stage them, commit them, and push them to master repo on the class GitHub site. For a reminder about how to do this, see ps0.5.
+Once your code works to your satisfaction, save the files, stage them, commit them, and push them to your personal master repo on the class GitHub site. For a reminder about how to do this, see ps0.5.
 
 As always, you can check to see if it worked by going to your account on GitHub and checking to see if it was updated and whether the files have changed in the way you expected.
 
