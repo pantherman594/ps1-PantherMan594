@@ -2,7 +2,7 @@
 
 ## Due Wednesday, September 5, at 11:59pm local time
 
-## For an up-to-date version of this README, see https://github.com/BC-CSCI-1102-F18-MW/ps1/blob/master/README.md.
+#### [Click here for an up-to-date version of this README](https://github.com/BC-CSCI-1102-F18-MW/ps1/blob/master/README.md)
 
 ---
 
