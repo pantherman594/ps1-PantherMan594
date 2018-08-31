@@ -2,6 +2,10 @@
 
 ## Due Wednesday, September 5, at 11:59pm local time
 
+## For an up-to-date version of this README, see https://github.com/BC-CSCI-1102-F18-MW/ps1/blob/master/README.md.
+
+---
+
 ### Cloning (review): Three options to clone the repository
 
 1. Use the GitHub Desktop app to clone the repo, then move it to your course directory.
