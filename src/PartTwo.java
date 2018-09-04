@@ -14,7 +14,9 @@ public class PartTwo {
 
   public static void main (String[] args) {
 
-    // YOUR CODE HERE!
+    String input = String.join(" ", args);
+    System.out.format("Hello, %s!", input);
+    System.out.println();
 
   }
 

@@ -13,7 +13,8 @@ public class PartOne {
 
   public static void main (String[] args) {
 
-    System.out.println("Hello, World!");
+    System.out.format("%s, %s!", "Hello", "World");
+    System.out.println();
 
   }
 
