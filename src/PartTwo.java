@@ -14,6 +14,12 @@ public class PartTwo {
 
   public static void main (String[] args) {
 
+    if (args.length == 0) {
+      System.out.println("Please provide a name!");
+      return;
+    }
+
+    // String input = args[0];
     String input = String.join(" ", args);
     System.out.format("Hello, %s!", input);
     System.out.println();

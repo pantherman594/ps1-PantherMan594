@@ -17,7 +17,7 @@ public class PartThree {
   public static void main(String[] args) {
     
     System.out.print("Type a name: ");
-     String input = StdIn.readString();
+    String input = StdIn.readString();
     System.out.format("Hello, %s!", input);
     System.out.println();
 
